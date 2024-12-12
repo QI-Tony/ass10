@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/594506939016390693/e1db6523cab341afa1333c3b2ab5ea68/artifacts
+end_time: 1733974412452
+entry_point_name: ''
+experiment_id: '594506939016390693'
+lifecycle_stage: active
+run_id: e1db6523cab341afa1333c3b2ab5ea68
+run_name: unleashed-moose-368
+run_uuid: e1db6523cab341afa1333c3b2ab5ea68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733974412432
+status: 3
+tags: []
+user_id: qizhang

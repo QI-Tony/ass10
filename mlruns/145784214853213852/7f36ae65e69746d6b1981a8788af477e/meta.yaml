@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/145784214853213852/7f36ae65e69746d6b1981a8788af477e/artifacts
+end_time: 1733974419098
+entry_point_name: ''
+experiment_id: '145784214853213852'
+lifecycle_stage: active
+run_id: 7f36ae65e69746d6b1981a8788af477e
+run_name: sincere-yak-5
+run_uuid: 7f36ae65e69746d6b1981a8788af477e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733974415018
+status: 3
+tags: []
+user_id: qizhang
